@@ -15,7 +15,7 @@ import {
 import "./NotesBlog.css";
 
 // Components
-import CustomTextField from "../../components/CustomTextInput";
+import CustomTextField from "../../components/CustomTexFile";
 
 class NotesBlog extends Component {
   constructor(props) {
